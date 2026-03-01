@@ -6,7 +6,7 @@ on:
       - build-apk
 
 env:
-  FLUTTER_VERSION: 3.13.2
+  FLUTTER_VERSION: 3.41.2
   VERSION_CODE: ${{ github.run_number }}
 
 jobs:
